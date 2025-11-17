@@ -1,3 +1,15 @@
+<p align="left">
+  <a href="https://gmays.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://x.com/gabemays">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gabrielmays">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 # Hi, I’m Gabe 👋
 
 I love building AI native products.
