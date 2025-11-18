@@ -16,7 +16,7 @@ I love building AI native products.
 
 ## Now
 
-I’m building **[AlignTrue](https://aligntrue.ai)**, an OSS CLI to sync + manage AI directives (rules, skills, behaviors) across agents, projects & teams.
+I’m building **[AlignTrue](https://aligntrue.ai)**, an OSS CLI to sync + manage AI directives (rules, skills, etc.) across agents, projects & teams.
 
 ### Why
 
