@@ -16,15 +16,7 @@ I love building AI native products.
 
 ## Now
 
-I’m building **[AlignTrue](https://aligntrue.ai)**, an OSS CLI to sync + manage AI directives (rules, skills, etc.) across agents, repos & teams.
-
-### Why
-
-- **No more ICs:** Most "ICs" will spend more time managing agents than writing code ➡️ *Everyone is a manager now.*
-- **Unlock GDP:** Future GDP is constrained more by *bad AI usage* than by bad models ➡️ *Make 'doing it right' easy.*
-- **Level up humanity:** Clear rules for agents also make human collaboration saner & faster ➡️ *Aligned goals & priorities.*
-
-AlignTrue is my attempt to fix that binding constraint so we can actually scale with AI instead of fighting it.
+I’m building **[AlignTrue](https://aligntrue.ai)**, the system of record for AI. Models commoditize, trust doesn’t.
 
 ## Previously
 
