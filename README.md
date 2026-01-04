@@ -25,7 +25,7 @@ I’m building **[AlignTrue](https://aligntrue.ai)**, the system of record for A
 - **Behavior drift is a death spiral:** Agents copy inconsistency at machine speed across tools, teams, and time. A single system of record keeps behavior coherent and governable.
 - **If you can’t replay it, you can’t run it:** Real operations require auditability, rollback, and deterministic recovery. Rebuildable history turns AI work into software.
 
-AlignTrue is how we make AI trustworthy enough to run real workflows, not just write pretty text.
+AlignTrue is how we make AI trustworthy enough to run real workflows and unlock the productivity promise of AI.
 
 ## Previously
 
