@@ -16,16 +16,7 @@ I love building AI native products.
 
 ## Now
 
-I’m building **[AlignTrue](https://aligntrue.ai)**, the system of record for AI. Models commoditize, trust doesn’t.
-
-## Why
-### TL;DR
-
-- **AI without receipts is a liability:** If you can’t prove what it saw, why it decided, and what it did, you can’t trust it in production. Receipts turn “vibes” into accountability.
-- **Behavior drift is a death spiral:** Agents copy inconsistency at machine speed across tools, teams, and time. A single system of record keeps behavior coherent and governable.
-- **If you can’t replay it, you can’t run it:** Real operations require auditability, rollback, and deterministic recovery. Rebuildable history turns AI work into software.
-
-AlignTrue is how we make AI trustworthy enough to run real workflows and unlock the productivity promise of AI.
+I’m building **[Main Character](https://maincharacter.game)**: AI-native, gamified productivity. Turn real-life work into progress you feel & others see with tools that help you focus, prioritize & stay accountable.
 
 ## Previously
 
