@@ -12,8 +12,6 @@
 
 # Hi, I’m Gabe 👋
 
-I love building AI native products.
-
 ## Now
 
 I’m building **[Main Character](https://maincharacter.game)**: AI-native, gamified productivity. Turn real-life work into progress you feel & others see with tools that help you focus, prioritize & stay accountable.
