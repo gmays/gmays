@@ -14,7 +14,7 @@
 
 ## Now
 
-I’m building **[Main Character](https://maincharacter.game)**: AI-native, gamified productivity. Turn real-life work into progress you feel & others see with tools that help you focus, prioritize & stay accountable.
+I’m building AI-native wearable interfaces for frontline workers, starting with industry-specific workflows and expanding to consumer.
 
 ## Previously
 
