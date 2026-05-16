@@ -14,12 +14,12 @@
 
 ## Now
 
-I’m building AI-native wearable interfaces for frontline workers, starting with industry-specific workflows and expanding to consumer.
+Running an applied AI product lab & investing promising AI opportunities.
 
 ## Previously
 
+- **Startup founder** – multiple products across AI, SaaS & marketing tools
 - **Director of Product @ GoDaddy** – grew WordPress product line to $100M+ ARR in 5 years, working with distributed eng teams on tools used by millions
-- **Startup founder** – multiple products across SaaS & marketing tools
 - **US Marine Corps Captain** – 8 years active duty, 2 years in Iraq & Afghanistan operating on small embedded teams
 - **Overeducated** - BA, MS, MBA
 
@@ -27,6 +27,6 @@ I’m building AI-native wearable interfaces for frontline workers, starting wit
 
 - Product leader, builder & [investor](https://gmays.com/investing/).  
 - Studying [math daily](https://gmays.com/how-im-relearning-math-as-an-adult/) since Oct 2023 to go deeper on how modern ML actually works.  
-- Dad of 2, married 17 years ❤️  
+- Dad of 2, married 18 years ❤️  
 
 More [about me](https://gmays.com/about/).
