@@ -14,7 +14,7 @@
 
 ## Now
 
-Running an applied AI product lab & investing promising AI opportunities.
+Running an applied AI product lab & investing in AI.
 
 ## Previously
 
