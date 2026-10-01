@@ -13,7 +13,7 @@
 # Hi, I’m Gabe 👋
 
 ## Now
-I run an [applied AI & robotics lab](https://maincharacter.dev).
+Running an [applied AI & robotics lab](https://maincharacter.dev).
 
 ## Previously
 
@@ -26,6 +26,6 @@ I run an [applied AI & robotics lab](https://maincharacter.dev).
 
 - Product leader, builder & [investor](https://gmays.com/investing/).  
 - Studying [math daily](https://gmays.com/how-im-relearning-math-as-an-adult/) since Oct 2023 to go deeper on how AI works.  
-- Father of 2, married 18 years ❤️  
+- Father of 2. Married 18 years ❤️  
 
 More [about me](https://gmays.com/about/) and [what I've built](https://gmays.com/projects/).
